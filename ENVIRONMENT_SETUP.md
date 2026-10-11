@@ -9,8 +9,13 @@ However, it is still necessary to set up Bazel at first.
 
 Linux & macOS will get first-class support in development.
 
-Bazel on Windows has many problems (can't start dev client, some targets don't build), so Windows users may need to
-use WSL for better developing experience. Building mod JARs on Windows is supported anyway.
+Bazel on Windows has many problems:
+
+- Can't start dev client, because Bazel use META-INF classpath jars due to Windows
+  command length limit, which Fabric Loader doesn't scan in dev environment
+- Some targets don't build
+
+So Windows users may need to use WSL for better developing experience. Building mod JARs on Windows is supported anyway.
 
 ## Install Bazel
 
