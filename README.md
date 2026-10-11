@@ -8,6 +8,8 @@ This is the central repository of TouchController organization.
 
 **TouchController**
 
+<img src="touchcontroller/resources/texture/banner.png" width="512" height="128" />
+
 一款 Minecraft：Java 版的模组，添加了类基岩版的触摸控制系统。
 
 A mod for Minecraft: Java Edition, adding touch control system like the Bedrock Edition.
@@ -19,6 +21,8 @@ License: LGPL-3.0-or-later
 ---
 
 **Combine**
+
+<img src="combine/resources/banner.png" width="512" height="128" />
 
 一个为 Minecraft：Java 版制作的 GUI 库。支持以 Compose 的风格构建跨 Minecraft 版本的 UI。
 
