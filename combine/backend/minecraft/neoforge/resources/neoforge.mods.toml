@@ -9,6 +9,8 @@ version = "${version}"
 displayName = "Combine"
 displayURL = "${home_page}"
 logoFile = "icon.png"
+bannerFile = "banner.png"
+iconFile = "icon.png"
 authors = "fifth_light"
 description = "${description}"
 

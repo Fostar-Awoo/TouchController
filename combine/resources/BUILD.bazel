@@ -3,3 +3,9 @@ alias(
     actual = "icon.png",
     visibility = ["//combine:__subpackages__"],
 )
+
+alias(
+    name = "banner",
+    actual = "banner.png",
+    visibility = ["//combine:__subpackages__"],
+)

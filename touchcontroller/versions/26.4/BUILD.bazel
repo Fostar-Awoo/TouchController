@@ -65,9 +65,10 @@ expand_template(
 
 jar(
     name = "meta_jar",
-    resources = [
-        ":fabric_mod_json",
-    ],
+    resource_paths = {
+        ":fabric_mod_json": "fabric.mod.json",
+        "//touchcontroller/resources/texture:icon": "assets/touchcontroller/textures/icon.png",
+    },
     visibility = ["//touchcontroller:__subpackages__"],
 )
 
@@ -82,7 +83,11 @@ merge_library_jar(
         ":neoforge_mod_toml": "touchcontroller/versions/26.4",
     },
     visibility = ["//touchcontroller:__subpackages__"],
-    deps = [":26.4"],
+    deps = [
+        ":26.4",
+        "//touchcontroller/resources/texture:banner_jar",
+        "//touchcontroller/resources/texture:icon_jar",
+    ],
 )
 
 class_version_test(

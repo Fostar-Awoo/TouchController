@@ -25,6 +25,7 @@ unified_jar(
     neoforge_rules = combine_neoforge_config | combine_unified_neoforge,
     resources = {
         "//combine/resources:icon": ".",
+        "//combine/resources:banner": ".",
     },
     visibility = ["//visibility:public"],
     deps = combine_common_deps | combine_neoforge_deps | combine_unified_deps,

@@ -47,6 +47,13 @@ copy_file(
     is_executable = False,
 )
 
+copy_file(
+    name = "banner",
+    src = "//touchcontroller/resources/texture:banner",
+    out = "banner.png",
+    is_executable = False,
+)
+
 java_export(
     name = "api",
     srcs = glob(["**/*.java"]),
@@ -57,6 +64,7 @@ java_export(
     ],
     resource_strip_prefix = "touchcontroller/api",
     resources = [
+        ":banner",
         ":fabric_mod_json",
         ":icon",
         ":mcmod_info",

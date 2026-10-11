@@ -7,5 +7,7 @@ version = "${version}"
 displayName = "${name}"
 displayURL = "${home_page}"
 logoFile = "assets/touchcontroller/textures/icon.png"
+bannerFile = "assets/touchcontroller/textures/banner.png"
+iconFile = "assets/touchcontroller/textures/icon.png"
 authors = "${authors}"
 description = '''${description}'''

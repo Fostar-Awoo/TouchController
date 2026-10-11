@@ -68,6 +68,7 @@ merge_library_jar(
     aspects = ["//combine/backend/minecraft:minecraft_unmerged"],
     resources = {
         "//combine/resources:icon": ".",
+        "//combine/resources:banner": ".",
         ":neoforge_mods_toml": "combine/backend/minecraft/versions/26.3",
         "//combine/backend/minecraft/game/26.3:access_transformer": ".",
     },

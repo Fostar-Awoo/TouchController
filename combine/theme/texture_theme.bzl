@@ -15,6 +15,7 @@ def _combine_theme_impl(
         namespace,
         deps,
         icon,
+        banner,
         vanilla_package,
         atlas_package,
         atlas_width,
@@ -45,11 +46,12 @@ def _combine_theme_impl(
     )
 
     icon_resources = {icon: "."} if icon else {}
+    banner_resources = {banner: "."} if banner else {}
     merge_library_jar(
         name = name + "_common",
         aspect = True,
         aspect_class = aspect_class,
-        resources = icon_resources,
+        resources = icon_resources | banner_resources,
         visibility = visibility,
         deps = [
             ":" + name,
@@ -82,7 +84,7 @@ def _combine_theme_impl(
         aspects = [":" + name + "_common"],
         aspect_impl_package_suffix = name + ".vanilla",
         visibility = visibility,
-        resources = icon_resources,
+        resources = icon_resources | banner_resources,
         deps = [
             ":" + name + "_mod_info_json_vanilla",
             ":" + name + "_vanilla_lib",
@@ -142,6 +144,7 @@ combine_theme = macro(
         "namespace": attr.string(default = "combine", configurable = False),
         "deps": attr.label_list(default = [], configurable = False),
         "icon": attr.label(allow_single_file = True, configurable = False),
+        "banner": attr.label(allow_single_file = True, configurable = False),
         "vanilla_package": attr.string(mandatory = False),
         "atlas_package": attr.string(mandatory = False),
         "atlas_width": attr.int(mandatory = False, default = 128),

@@ -90,6 +90,7 @@ touchcontroller_neoforge_deps = combine_neoforge_deps | {
     "touchcontroller-26-1-neoforge": "//touchcontroller/versions/neoforge/26.1",
     "touchcontroller-26-1-2-neoforge": "//touchcontroller/versions/neoforge/26.1.2",
     "touchcontroller-26-2-neoforge": "//touchcontroller/versions/neoforge/26.2",
+    "touchcontroller-26-3-neoforge": "//touchcontroller/versions/neoforge/26.3",
 }
 
 touchcontroller_neoforge_config = combine_neoforge_config | {

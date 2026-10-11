@@ -48,6 +48,7 @@ text_resource_jar(
     resource_jars = [
         ":neoforge_mod_toml_modern",
         ":fabric_mod_json_modern",
+        "//touchcontroller/resources/texture:banner_jar",
         "//touchcontroller/resources/texture:icon_jar",
     ],
     resource_prefix = "assets/touchcontroller/lang",
