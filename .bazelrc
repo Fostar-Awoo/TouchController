@@ -31,7 +31,8 @@ common:jre25 --java_runtime_version=remotejdk_25 --java_language_version=25
 common:jre25 --jvmopt=--sun-misc-unsafe-memory-access=allow
 
 # Zig CC
-build:linux --sandbox_add_mount_pair=/tmp
+build:linux --repo_env=HERMETIC_CC_TOOLCHAIN_CACHE_PREFIX=/var/tmp/zig-cc
+build:linux --sandbox_writable_path=/var/tmp
 build:macos --sandbox_add_mount_pair=/var/tmp
 
 # Protobuf
