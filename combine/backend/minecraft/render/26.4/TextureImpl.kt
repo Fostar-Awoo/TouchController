@@ -150,7 +150,7 @@ data class TextureImpl(
             guiGraphics.submitElement(
                 BlitRenderState(
                     pipeline = RenderPipelines.GUI_TEXTURED,
-                    textureSetup = TextureSetup.singleTexture(texture.textureView, texture.sampler),
+                    textureSetup = TextureSetup.singleTexture(texture.textureView(), texture.sampler()),
                     pose = Matrix3x2f(guiGraphics.pose()),
                     x0 = dstRect.offset.x,
                     y0 = dstRect.offset.y,
@@ -169,7 +169,7 @@ data class TextureImpl(
             guiGraphics.submitElement(
                 BlitRenderState(
                     pipeline = RenderPipelines.GUI_TEXTURED,
-                    textureSetup = TextureSetup.singleTexture(texture.textureView, texture.sampler),
+                    textureSetup = TextureSetup.singleTexture(texture.textureView(), texture.sampler()),
                     pose = Matrix3x2f(guiGraphics.pose()),
                     x0 = dstRect.offset.x,
                     y0 = dstRect.offset.y,
@@ -250,7 +250,7 @@ data class BackgroundTextureImpl(
         guiGraphics.submitElement(
             BlitRenderState(
                 pipeline = RenderPipelines.GUI_TEXTURED,
-                textureSetup = TextureSetup.singleTexture(texture.textureView, texture.sampler),
+                textureSetup = TextureSetup.singleTexture(texture.textureView(), texture.sampler()),
                 pose = Matrix3x2f(guiGraphics.pose()),
                 x0 = dstRect.offset.x,
                 y0 = dstRect.offset.y,

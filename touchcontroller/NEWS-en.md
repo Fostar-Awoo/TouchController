@@ -4,7 +4,7 @@
 
 - Added automatic anchor for widget
 - Added support for NeoForge、Fabric 26.3
-- Added support for Fabric 26.4-snapshot-2
+- Added support for Fabric 26.4-snapshot-3
 - Fixed crash when opening vanilla chat screen on 1.21.1
 - Fixed crash when mods extend CameraType (mainly Sable)
 - Fixed a possible deadlock of the Android launcher's native event bridge, which could freeze the game

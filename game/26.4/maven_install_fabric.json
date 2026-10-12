@@ -3,109 +3,109 @@
   "__INPUT_ARTIFACTS_HASH": {
     "com.terraformersmc:modmenu": 216776397,
     "io.github.llamalad7:mixinextras-fabric": 621509836,
-    "net.fabricmc.fabric-api:fabric-api": -379328720,
+    "net.fabricmc.fabric-api:fabric-api": -1992756490,
     "net.fabricmc:fabric-language-kotlin": -61944167,
     "net.fabricmc:fabric-loader": 977831562,
     "net.fabricmc:sponge-mixin": 2031847387,
     "repositories": 240222214
   },
   "__RESOLVED_ARTIFACTS_HASH": {
-    "com.terraformersmc:modmenu": -2059222243,
+    "com.terraformersmc:modmenu": 435413607,
     "com.terraformersmc:modmenu:jar:sources": 267416216,
     "io.github.llamalad7:mixinextras-fabric": 345711621,
     "io.github.llamalad7:mixinextras-fabric:jar:sources": -1171769817,
-    "net.fabricmc.fabric-api:fabric-advancement-api-v1": -1883439675,
-    "net.fabricmc.fabric-api:fabric-advancement-api-v1:jar:sources": -1562181559,
-    "net.fabricmc.fabric-api:fabric-api": -1197143956,
-    "net.fabricmc.fabric-api:fabric-api-base": -407093108,
-    "net.fabricmc.fabric-api:fabric-api-base:jar:sources": -319445693,
-    "net.fabricmc.fabric-api:fabric-api-lookup-api-v1": 1648947113,
-    "net.fabricmc.fabric-api:fabric-api-lookup-api-v1:jar:sources": -352345445,
-    "net.fabricmc.fabric-api:fabric-api:jar:sources": -826985378,
-    "net.fabricmc.fabric-api:fabric-biome-api-v1": 728343597,
-    "net.fabricmc.fabric-api:fabric-biome-api-v1:jar:sources": 1683862062,
-    "net.fabricmc.fabric-api:fabric-block-api-v1": -1495320248,
-    "net.fabricmc.fabric-api:fabric-block-api-v1:jar:sources": 590132446,
-    "net.fabricmc.fabric-api:fabric-block-getter-api-v2": -1277152509,
-    "net.fabricmc.fabric-api:fabric-block-getter-api-v2:jar:sources": 1243180485,
-    "net.fabricmc.fabric-api:fabric-client-gametest-api-v1": -1310345766,
-    "net.fabricmc.fabric-api:fabric-client-gametest-api-v1:jar:sources": 617619669,
-    "net.fabricmc.fabric-api:fabric-command-api-v2": 1121889434,
-    "net.fabricmc.fabric-api:fabric-command-api-v2:jar:sources": 1349201887,
-    "net.fabricmc.fabric-api:fabric-content-registries-v0": -1591171249,
-    "net.fabricmc.fabric-api:fabric-content-registries-v0:jar:sources": 1950052130,
-    "net.fabricmc.fabric-api:fabric-convention-tags-v2": 1657452987,
-    "net.fabricmc.fabric-api:fabric-convention-tags-v2:jar:sources": -875297930,
-    "net.fabricmc.fabric-api:fabric-crash-report-info-v1": -152830239,
-    "net.fabricmc.fabric-api:fabric-crash-report-info-v1:jar:sources": -239929555,
-    "net.fabricmc.fabric-api:fabric-creative-tab-api-v1": 548227517,
-    "net.fabricmc.fabric-api:fabric-creative-tab-api-v1:jar:sources": -1784986390,
-    "net.fabricmc.fabric-api:fabric-data-attachment-api-v1": -930129321,
-    "net.fabricmc.fabric-api:fabric-data-attachment-api-v1:jar:sources": -1819553059,
-    "net.fabricmc.fabric-api:fabric-data-generation-api-v1": -2025481815,
-    "net.fabricmc.fabric-api:fabric-data-generation-api-v1:jar:sources": -1109420069,
-    "net.fabricmc.fabric-api:fabric-debug-api-v1": 1793785584,
-    "net.fabricmc.fabric-api:fabric-debug-api-v1:jar:sources": 1677295641,
-    "net.fabricmc.fabric-api:fabric-dimensions-v1": 367172121,
-    "net.fabricmc.fabric-api:fabric-dimensions-v1:jar:sources": 1709664062,
-    "net.fabricmc.fabric-api:fabric-entity-events-v1": -1079606185,
-    "net.fabricmc.fabric-api:fabric-entity-events-v1:jar:sources": -607859413,
-    "net.fabricmc.fabric-api:fabric-events-interaction-v0": -1476382880,
-    "net.fabricmc.fabric-api:fabric-events-interaction-v0:jar:sources": 1653862647,
-    "net.fabricmc.fabric-api:fabric-game-rule-api-v1": 1061453931,
-    "net.fabricmc.fabric-api:fabric-game-rule-api-v1:jar:sources": -1925726693,
-    "net.fabricmc.fabric-api:fabric-gametest-api-v1": 1768401335,
-    "net.fabricmc.fabric-api:fabric-gametest-api-v1:jar:sources": -58883869,
-    "net.fabricmc.fabric-api:fabric-item-api-v1": 2061834473,
-    "net.fabricmc.fabric-api:fabric-item-api-v1:jar:sources": 2084579242,
+    "net.fabricmc.fabric-api:fabric-advancement-api-v1": 2011708280,
+    "net.fabricmc.fabric-api:fabric-advancement-api-v1:jar:sources": 513027974,
+    "net.fabricmc.fabric-api:fabric-api": 1264843196,
+    "net.fabricmc.fabric-api:fabric-api-base": 259395126,
+    "net.fabricmc.fabric-api:fabric-api-base:jar:sources": 1755763840,
+    "net.fabricmc.fabric-api:fabric-api-lookup-api-v1": 1880699696,
+    "net.fabricmc.fabric-api:fabric-api-lookup-api-v1:jar:sources": 1722864088,
+    "net.fabricmc.fabric-api:fabric-api:jar:sources": -1219984323,
+    "net.fabricmc.fabric-api:fabric-biome-api-v1": 382090131,
+    "net.fabricmc.fabric-api:fabric-biome-api-v1:jar:sources": -1727900851,
+    "net.fabricmc.fabric-api:fabric-block-api-v1": -1541136462,
+    "net.fabricmc.fabric-api:fabric-block-api-v1:jar:sources": -1629625317,
+    "net.fabricmc.fabric-api:fabric-block-getter-api-v2": -10932486,
+    "net.fabricmc.fabric-api:fabric-block-getter-api-v2:jar:sources": -114273117,
+    "net.fabricmc.fabric-api:fabric-client-gametest-api-v1": 963200715,
+    "net.fabricmc.fabric-api:fabric-client-gametest-api-v1:jar:sources": -1227700779,
+    "net.fabricmc.fabric-api:fabric-command-api-v2": -1828226220,
+    "net.fabricmc.fabric-api:fabric-command-api-v2:jar:sources": -870555876,
+    "net.fabricmc.fabric-api:fabric-content-registries-v0": 525603555,
+    "net.fabricmc.fabric-api:fabric-content-registries-v0:jar:sources": -269705633,
+    "net.fabricmc.fabric-api:fabric-convention-tags-v2": -302194343,
+    "net.fabricmc.fabric-api:fabric-convention-tags-v2:jar:sources": 1199911603,
+    "net.fabricmc.fabric-api:fabric-crash-report-info-v1": 28929416,
+    "net.fabricmc.fabric-api:fabric-crash-report-info-v1:jar:sources": -1597383157,
+    "net.fabricmc.fabric-api:fabric-creative-tab-api-v1": 2138009497,
+    "net.fabricmc.fabric-api:fabric-creative-tab-api-v1:jar:sources": 290223143,
+    "net.fabricmc.fabric-api:fabric-data-attachment-api-v1": 1415983896,
+    "net.fabricmc.fabric-api:fabric-data-attachment-api-v1:jar:sources": 1163439197,
+    "net.fabricmc.fabric-api:fabric-data-generation-api-v1": 1228663870,
+    "net.fabricmc.fabric-api:fabric-data-generation-api-v1:jar:sources": 2085664191,
+    "net.fabricmc.fabric-api:fabric-debug-api-v1": 1633169659,
+    "net.fabricmc.fabric-api:fabric-debug-api-v1:jar:sources": -542462122,
+    "net.fabricmc.fabric-api:fabric-dimensions-v1": -769183308,
+    "net.fabricmc.fabric-api:fabric-dimensions-v1:jar:sources": -510093701,
+    "net.fabricmc.fabric-api:fabric-entity-events-v1": 1469379756,
+    "net.fabricmc.fabric-api:fabric-entity-events-v1:jar:sources": 1467350120,
+    "net.fabricmc.fabric-api:fabric-events-interaction-v0": 889029772,
+    "net.fabricmc.fabric-api:fabric-events-interaction-v0:jar:sources": 1683897182,
+    "net.fabricmc.fabric-api:fabric-game-rule-api-v1": -1323434045,
+    "net.fabricmc.fabric-api:fabric-game-rule-api-v1:jar:sources": 149482840,
+    "net.fabricmc.fabric-api:fabric-gametest-api-v1": 1653699732,
+    "net.fabricmc.fabric-api:fabric-gametest-api-v1:jar:sources": 1154021503,
+    "net.fabricmc.fabric-api:fabric-item-api-v1": -1130318209,
+    "net.fabricmc.fabric-api:fabric-item-api-v1:jar:sources": -1279313653,
     "net.fabricmc.fabric-api:fabric-key-mapping-api-v1": -314937655,
     "net.fabricmc.fabric-api:fabric-key-mapping-api-v1:jar:sources": -784455250,
-    "net.fabricmc.fabric-api:fabric-lifecycle-events-v1": 1551253973,
-    "net.fabricmc.fabric-api:fabric-lifecycle-events-v1:jar:sources": 1787146812,
-    "net.fabricmc.fabric-api:fabric-loot-api-v3": -1393532076,
-    "net.fabricmc.fabric-api:fabric-loot-api-v3:jar:sources": 1152463273,
-    "net.fabricmc.fabric-api:fabric-menu-api-v1": -218259751,
-    "net.fabricmc.fabric-api:fabric-menu-api-v1:jar:sources": -488691175,
-    "net.fabricmc.fabric-api:fabric-message-api-v1": 351100889,
-    "net.fabricmc.fabric-api:fabric-message-api-v1:jar:sources": -2051816763,
-    "net.fabricmc.fabric-api:fabric-model-loading-api-v1": 679733167,
-    "net.fabricmc.fabric-api:fabric-model-loading-api-v1:jar:sources": 1844892675,
-    "net.fabricmc.fabric-api:fabric-networking-api-v1": 1391828534,
-    "net.fabricmc.fabric-api:fabric-networking-api-v1:jar:sources": 570563467,
-    "net.fabricmc.fabric-api:fabric-object-builder-api-v1": 1009860351,
-    "net.fabricmc.fabric-api:fabric-object-builder-api-v1:jar:sources": 673425319,
-    "net.fabricmc.fabric-api:fabric-particles-v1": -1823876308,
-    "net.fabricmc.fabric-api:fabric-particles-v1:jar:sources": 375209198,
-    "net.fabricmc.fabric-api:fabric-permission-api-v1": -1765582313,
-    "net.fabricmc.fabric-api:fabric-permission-api-v1:jar:sources": 474806563,
-    "net.fabricmc.fabric-api:fabric-recipe-api-v1": -294806379,
-    "net.fabricmc.fabric-api:fabric-recipe-api-v1:jar:sources": -820063428,
-    "net.fabricmc.fabric-api:fabric-registry-sync-v0": 1706526943,
-    "net.fabricmc.fabric-api:fabric-registry-sync-v0:jar:sources": 1566109868,
-    "net.fabricmc.fabric-api:fabric-renderer-api-v1": -1304331691,
-    "net.fabricmc.fabric-api:fabric-renderer-api-v1:jar:sources": 768083377,
-    "net.fabricmc.fabric-api:fabric-renderer-indigo": 1798003239,
-    "net.fabricmc.fabric-api:fabric-renderer-indigo:jar:sources": 1891443478,
-    "net.fabricmc.fabric-api:fabric-rendering-fluids-v1": 1814928867,
-    "net.fabricmc.fabric-api:fabric-rendering-fluids-v1:jar:sources": -436055643,
-    "net.fabricmc.fabric-api:fabric-rendering-v1": -152169923,
-    "net.fabricmc.fabric-api:fabric-rendering-v1:jar:sources": 397934412,
-    "net.fabricmc.fabric-api:fabric-resource-conditions-api-v1": 1165027483,
-    "net.fabricmc.fabric-api:fabric-resource-conditions-api-v1:jar:sources": -150695920,
-    "net.fabricmc.fabric-api:fabric-resource-loader-v1": -450237532,
-    "net.fabricmc.fabric-api:fabric-resource-loader-v1:jar:sources": -549050189,
-    "net.fabricmc.fabric-api:fabric-screen-api-v1": -1745316175,
-    "net.fabricmc.fabric-api:fabric-screen-api-v1:jar:sources": -287925286,
-    "net.fabricmc.fabric-api:fabric-serialization-api-v1": 1672303967,
-    "net.fabricmc.fabric-api:fabric-serialization-api-v1:jar:sources": 1414425156,
-    "net.fabricmc.fabric-api:fabric-sound-api-v1": -1365929551,
-    "net.fabricmc.fabric-api:fabric-sound-api-v1:jar:sources": -572336926,
-    "net.fabricmc.fabric-api:fabric-tag-api-v1": -1213341802,
-    "net.fabricmc.fabric-api:fabric-tag-api-v1:jar:sources": 494854245,
-    "net.fabricmc.fabric-api:fabric-transfer-api-v1": 1004781738,
-    "net.fabricmc.fabric-api:fabric-transfer-api-v1:jar:sources": -1059652025,
-    "net.fabricmc.fabric-api:fabric-transitive-access-wideners-v1": 1682167758,
-    "net.fabricmc.fabric-api:fabric-transitive-access-wideners-v1:jar:sources": 2118040067,
+    "net.fabricmc.fabric-api:fabric-lifecycle-events-v1": 2092052955,
+    "net.fabricmc.fabric-api:fabric-lifecycle-events-v1:jar:sources": -1513328520,
+    "net.fabricmc.fabric-api:fabric-loot-api-v3": 1947520397,
+    "net.fabricmc.fabric-api:fabric-loot-api-v3:jar:sources": -1067294490,
+    "net.fabricmc.fabric-api:fabric-menu-api-v1": 2074805010,
+    "net.fabricmc.fabric-api:fabric-menu-api-v1:jar:sources": -204304000,
+    "net.fabricmc.fabric-api:fabric-message-api-v1": 1519187987,
+    "net.fabricmc.fabric-api:fabric-message-api-v1:jar:sources": 23392770,
+    "net.fabricmc.fabric-api:fabric-model-loading-api-v1": -1826977139,
+    "net.fabricmc.fabric-api:fabric-model-loading-api-v1:jar:sources": -1237169249,
+    "net.fabricmc.fabric-api:fabric-networking-api-v1": -1535097517,
+    "net.fabricmc.fabric-api:fabric-networking-api-v1:jar:sources": 1140759495,
+    "net.fabricmc.fabric-api:fabric-object-builder-api-v1": -502692460,
+    "net.fabricmc.fabric-api:fabric-object-builder-api-v1:jar:sources": -1751528014,
+    "net.fabricmc.fabric-api:fabric-particles-v1": -1382414027,
+    "net.fabricmc.fabric-api:fabric-particles-v1:jar:sources": 1588114570,
+    "net.fabricmc.fabric-api:fabric-permission-api-v1": -1727787456,
+    "net.fabricmc.fabric-api:fabric-permission-api-v1:jar:sources": -1744951200,
+    "net.fabricmc.fabric-api:fabric-recipe-api-v1": -462660261,
+    "net.fabricmc.fabric-api:fabric-recipe-api-v1:jar:sources": -1261655447,
+    "net.fabricmc.fabric-api:fabric-registry-sync-v0": 806408274,
+    "net.fabricmc.fabric-api:fabric-registry-sync-v0:jar:sources": 1974390766,
+    "net.fabricmc.fabric-api:fabric-renderer-api-v1": -804660676,
+    "net.fabricmc.fabric-api:fabric-renderer-api-v1:jar:sources": -2137474436,
+    "net.fabricmc.fabric-api:fabric-renderer-indigo": -837751319,
+    "net.fabricmc.fabric-api:fabric-renderer-indigo:jar:sources": 1391802486,
+    "net.fabricmc.fabric-api:fabric-rendering-fluids-v1": 1530636745,
+    "net.fabricmc.fabric-api:fabric-rendering-fluids-v1:jar:sources": 1639153890,
+    "net.fabricmc.fabric-api:fabric-rendering-v1": 1713864697,
+    "net.fabricmc.fabric-api:fabric-rendering-v1:jar:sources": 1787343895,
+    "net.fabricmc.fabric-api:fabric-resource-conditions-api-v1": -201624992,
+    "net.fabricmc.fabric-api:fabric-resource-conditions-api-v1:jar:sources": 1484844993,
+    "net.fabricmc.fabric-api:fabric-resource-loader-v1": 684408291,
+    "net.fabricmc.fabric-api:fabric-resource-loader-v1:jar:sources": 1526159344,
+    "net.fabricmc.fabric-api:fabric-screen-api-v1": 1381725021,
+    "net.fabricmc.fabric-api:fabric-screen-api-v1:jar:sources": 1838144506,
+    "net.fabricmc.fabric-api:fabric-serialization-api-v1": 918928960,
+    "net.fabricmc.fabric-api:fabric-serialization-api-v1:jar:sources": 56971554,
+    "net.fabricmc.fabric-api:fabric-sound-api-v1": -1698689458,
+    "net.fabricmc.fabric-api:fabric-sound-api-v1:jar:sources": -1929790528,
+    "net.fabricmc.fabric-api:fabric-tag-api-v1": 1905557499,
+    "net.fabricmc.fabric-api:fabric-tag-api-v1:jar:sources": -1724903518,
+    "net.fabricmc.fabric-api:fabric-transfer-api-v1": 91757021,
+    "net.fabricmc.fabric-api:fabric-transfer-api-v1:jar:sources": -1428771182,
+    "net.fabricmc.fabric-api:fabric-transitive-access-wideners-v1": 663317623,
+    "net.fabricmc.fabric-api:fabric-transitive-access-wideners-v1:jar:sources": -2011560628,
     "net.fabricmc:fabric-language-kotlin": -1605597024,
     "net.fabricmc:fabric-language-kotlin:jar:sources": 575372654,
     "net.fabricmc:fabric-loader": -157909055,
@@ -170,157 +170,157 @@
     },
     "net.fabricmc.fabric-api:fabric-advancement-api-v1": {
       "shasums": {
-        "jar": "54df0b90a63e6726c4137290ba6f4bae145820a0dcde31e38d130c8ba7ef9ad4",
+        "jar": "1fb73be2bfbe7f85ac531b9115362e2afea7fa4195152e2cf01b9a0198fc50a8",
         "sources": "dc42f3861dcbef1983d5c28baea52efe33d1d4b30b2bfae10f5c47b3bd7c9ff9"
       },
-      "version": "1.0.0+38c7a2d504"
+      "version": "1.0.1+38c7a2d579"
     },
     "net.fabricmc.fabric-api:fabric-api": {
       "shasums": {
-        "jar": "4e0720b867b4f91cf13324148ebe581b29dd9f58a5c053f7df47ef22ced60f50",
+        "jar": "5e975e47225b8db6d5499b848d9174a9cb63ee46d1e4173da707d86f16eec8e9",
         "sources": "0abb673fd10fe7283d0bd9853f47a74e9fe41934c628b1d3f433cec3fb00315c"
       },
-      "version": "0.161.2+26.4"
+      "version": "0.162.2+26.4"
     },
     "net.fabricmc.fabric-api:fabric-api-base": {
       "shasums": {
-        "jar": "0cf39cc48297a0404786614455c794d493ae6188d098c78f72107595e85d7c2e",
+        "jar": "132bbd1ede3894580b6fe19b03ebd4112dff640324a9fe0505ff7278101c2e91",
         "sources": "8891a2aa41c0a91c014472ec23880782864d593eca93e98fe0c4aa5e78e903a1"
       },
-      "version": "2.0.6+fcdff87f04"
+      "version": "2.0.7+fcdff87f79"
     },
     "net.fabricmc.fabric-api:fabric-api-lookup-api-v1": {
       "shasums": {
-        "jar": "6b6f02f2c23ca1d24e04e93c58dd09747cc01c094065e38ad7000159a1919960",
+        "jar": "11abb5ac9cce2102fddf4416681ca0f0776b1420f18dd11d8b74f49de3e9f18f",
         "sources": "f16ab16e8e5f065c514d179bf0416178fa38fae77281b9909a2b9fec3c3709d9"
       },
-      "version": "2.0.24+3434d6d904"
+      "version": "2.0.25+3434d6d979"
     },
     "net.fabricmc.fabric-api:fabric-biome-api-v1": {
       "shasums": {
-        "jar": "9ed63068728da335eb87efa87ada6101a20488e323af5e9456edcc891b86fd0d",
-        "sources": "287c0bb40f6adf470db8bfc4a44314374f00c52d37938b973350145fbf8b181c"
+        "jar": "cd5fe90c248616070e44c60191803ef7f5bb2ad117dc6d68263e4ffced4b00cd",
+        "sources": "6da4e996937f5068f594e17c58141fb2943ab351d4d9266e3ce46c7b1e04f893"
       },
-      "version": "20.0.10+33bc4d2b04"
+      "version": "20.1.2+6478c2b479"
     },
     "net.fabricmc.fabric-api:fabric-block-api-v1": {
       "shasums": {
-        "jar": "f3fcf3b447b2b9067ea80f1ca9de6f17552f52d620d32fabd3b5f82da891e58b",
+        "jar": "15a876a77e86035b218b2282d599aea2e6d41472b10ce79e43a683808564a8ca",
         "sources": "c46c47424f9b6ffdfcad4b9d200526dc0ebfca1642fdc729a32b6f9e10d91c5d"
       },
-      "version": "3.1.0+0ae6f91104"
+      "version": "3.1.1+0ae6f91179"
     },
     "net.fabricmc.fabric-api:fabric-block-getter-api-v2": {
       "shasums": {
-        "jar": "2e1dc45a6247cfeaf18e7ea2ca43bd1dde16d24dbaee51645a5842daa1a45e3d",
+        "jar": "aa9d83090e5edc394607433b2dad39eb5faa1b32d2bf6caa10ad8ccb251990a9",
         "sources": "0e85a13eba1e0e18b8e3edbdbca0c89651ba4a17eea2eed71198ca9674adf42e"
       },
-      "version": "2.0.10+33bc4d2b04"
+      "version": "2.0.10+33bc4d2b79"
     },
     "net.fabricmc.fabric-api:fabric-client-gametest-api-v1": {
       "shasums": {
-        "jar": "f067dfececb2d64023a45bce25fac6fed4755f27130549cbe730412f5c67b8f3",
-        "sources": "76959d091e229a2cc024f75b68c346d6aa52103d3909b0f116c72ec5ac2d66f1"
+        "jar": "cb83f48938417bd984baf65f254458c6a94d2f215fc175d18aef038f464aaaca",
+        "sources": "7f9fbc79d7c8d65882f04ae93c1d58819d41d1d2074f50eb90a6e00cf9ee0a26"
       },
-      "version": "6.0.8+4be74c3f04"
+      "version": "6.0.10+6478c2b479"
     },
     "net.fabricmc.fabric-api:fabric-command-api-v2": {
       "shasums": {
-        "jar": "2743c922a25c6117ab9099d4ec63e048f20fa56551fd781abfcdd6a3b02130b5",
+        "jar": "a82d8a7b6b7f00b0bdf6632682d8592a829b7bd9e72f5ea5aab4d884d0a9b4bc",
         "sources": "e4cf73ffe053ac3fb920e2604f6b38dd8510cc890afdcb49fc6c8e8296e81769"
       },
-      "version": "3.1.2+fcdff87f04"
+      "version": "3.1.3+fcdff87f79"
     },
     "net.fabricmc.fabric-api:fabric-content-registries-v0": {
       "shasums": {
-        "jar": "7f96723d345c6bce547faf06aca9b9b9af28d5d3ed989bd44630af5820bf292f",
+        "jar": "5efd5951f858e6de3fb928170fcab1407db2eb1a496a63640e4698d0f0ec5df3",
         "sources": "030b273ed854beacb4de49bcc3a77ee26ef2c769618e9d2a33288ae1291279d1"
       },
-      "version": "15.0.4+74ed1ea504"
+      "version": "15.0.5+74ed1ea579"
     },
     "net.fabricmc.fabric-api:fabric-convention-tags-v2": {
       "shasums": {
-        "jar": "be36eb98834232787462cecebe7bf2255fddec459332984e30c0a8703a2904f1",
+        "jar": "c4356b707756fc3b23431de344c84942ef9cab5cc7da3651e018566842573266",
         "sources": "d9564abfb94bb87bd08a94a23683253bebe4c0f694232e29660ea602b050da38"
       },
-      "version": "4.10.3+6b5b47fd04"
+      "version": "4.10.4+6b5b47fd79"
     },
     "net.fabricmc.fabric-api:fabric-crash-report-info-v1": {
       "shasums": {
-        "jar": "17ea85f3b0061e77eb7b1ec33a6ce8d105b9962d15c518b1d16cccc7c0c77cea",
+        "jar": "763117aabd0ce1891ccb481f5f0f4371a6831c59a6a3e401cbf6008bb8a47308",
         "sources": "8b9f01b27090f3313e792c6e84dc9221fda59a9212de053f9c747c83f9dcd0a3"
       },
-      "version": "1.0.7+fcdff87f04"
+      "version": "1.0.7+fcdff87f79"
     },
     "net.fabricmc.fabric-api:fabric-creative-tab-api-v1": {
       "shasums": {
-        "jar": "90373ea1a61bef3a167dec1b12aae6d731c0001d763a5b5f14a878e4892d5af3",
+        "jar": "16b56be844191be1fd39a07bb58c6d9752279835f20bf0007ca5dfc632e8917b",
         "sources": "d4e3fd5f24279cb4bd0bd1365c283c8ddeee43b4b35265dbc79e5dc557072a00"
       },
-      "version": "5.0.21+fcdff87f04"
+      "version": "5.0.22+fcdff87f79"
     },
     "net.fabricmc.fabric-api:fabric-data-attachment-api-v1": {
       "shasums": {
-        "jar": "e29c65dbf4d972be8dc739be7b2c8b3fc2e35455f6a0fc4a8b1e72655180601c",
-        "sources": "586b895924a1b15963299fdd6397824cb21c85c481583efb03e63eff19fbd28e"
+        "jar": "14385b13989103cccb92af2815e546fff2f2d49f222cacc4448199cab6dc6e43",
+        "sources": "7a5d0fe086b2fb811d20cdcad66fb97c2ac0b73c6279aa6408bbfa74ba2b23b6"
       },
-      "version": "2.2.32+33bc4d2b04"
+      "version": "2.2.34+45181f3579"
     },
     "net.fabricmc.fabric-api:fabric-data-generation-api-v1": {
       "shasums": {
-        "jar": "740fc774b633cd905c3fc3049aa867cc2d8efe153feeeacafef685f0b24d0805",
-        "sources": "93ac35bebc3e104f6d6dbfb51b6afe7e6a3d047021899177d521e219390e129a"
+        "jar": "c8aac850ca35a0314eba4352baa58668766949217125ff3a7a393cb7557dead1",
+        "sources": "b379a0fd1778be2aaf6c16e8decd3df50dad1a40dddf3512933ef2729abe2ae3"
       },
-      "version": "27.2.6+427eab9704"
+      "version": "27.3.1+6478c2b479"
     },
     "net.fabricmc.fabric-api:fabric-debug-api-v1": {
       "shasums": {
-        "jar": "b05fd5a5a0b0ad8e42c3bde973a372e8245b8da2593640242976addcd98d575f",
+        "jar": "6ee6bac559dd6a9418f9065c870b9470101a82d53d0de51eed22efdba7994b73",
         "sources": "cdfbac50a6069aa0d06559f78b27173d9c36ec0c4b117aaaddf9bb22ca4d633b"
       },
-      "version": "1.0.4+3434d6d904"
+      "version": "1.0.5+3434d6d979"
     },
     "net.fabricmc.fabric-api:fabric-dimensions-v1": {
       "shasums": {
-        "jar": "84cdadb5e8a08f144d61d6029adb67f886e54a5ea933c5ac749cd330004ebc6f",
+        "jar": "daa3c285b7caeb7f31df5ca490e9e41849f4f2d992d03b4adceb196171ba383f",
         "sources": "f2af0c46672f66b7129c28ee6f05296b8d178ada865225e400cd2630ca61c8ec"
       },
-      "version": "5.1.21+d432c99e04"
+      "version": "5.1.22+d432c99e79"
     },
     "net.fabricmc.fabric-api:fabric-entity-events-v1": {
       "shasums": {
-        "jar": "7e60dbf88f0b25ae68ef3428eb84a388170ec59180ffbd100ed98d48b03f5f5a",
+        "jar": "b5d2f500009abf288e56befa5eaad1c12e63f2f451e70095d02f7f3b06f8b88b",
         "sources": "c7c777ac69a855ba3de356a0496ce229521ed1fcd5bd982c1db6838d4182971d"
       },
-      "version": "6.0.4+3434d6d904"
+      "version": "6.0.5+3434d6d979"
     },
     "net.fabricmc.fabric-api:fabric-events-interaction-v0": {
       "shasums": {
-        "jar": "1ae4f75dd4b3d5f2acb40a99197db1902bc40721f71d68f8f1cbc03a2907b456",
-        "sources": "e39f276b6f28136e2993503943756f9dca5d10ba94ed074ac12414d0b5acdc26"
+        "jar": "381f90086a624ad4041641847e3e1fd00ab0e8d028217e498adbec5231ce9ed1",
+        "sources": "d0f3c81b55f527b4129ca9fc66ad31351d79564b813d416fe1fe81ed18a5c796"
       },
-      "version": "5.3.7+3434d6d904"
+      "version": "5.3.9+45181f3579"
     },
     "net.fabricmc.fabric-api:fabric-game-rule-api-v1": {
       "shasums": {
-        "jar": "7923176eba81196cdba37298bee1db04c510108829c1a8515ed5950ad2716041",
+        "jar": "88167c9cca1601af9b1aeeb3981e0638e998f402f12bb904d3e68e61111fac3b",
         "sources": "c7aed50993338f4b0a92b4a53aaaa5e645c26f651e770d252fb894f7859cb575"
       },
-      "version": "4.0.10+3434d6d904"
+      "version": "4.0.11+3434d6d979"
     },
     "net.fabricmc.fabric-api:fabric-gametest-api-v1": {
       "shasums": {
-        "jar": "3ea786fd78565e1ec27634a6cfc90701edf00891e777bc67da623a0b75b19067",
+        "jar": "78345021ca81938c1b96da6f7720f4a0271e3db77b2fe8951a1a8b0fdde041f5",
         "sources": "44b2319e42d36cb52111a948812a8b06ca1d7ce6dba29f6a77f4ae97fbf990dd"
       },
-      "version": "4.0.34+d432c99e04"
+      "version": "4.0.36+d432c99e79"
     },
     "net.fabricmc.fabric-api:fabric-item-api-v1": {
       "shasums": {
-        "jar": "a7817eee2b7afd43135e889a86425a6b52192cdee41a6b74cd026a0e4fd10051",
+        "jar": "a36498ad4e9689f9fa6f32d9c88043f098cf8ee80bae66d96161c738d3b452e9",
         "sources": "8b0ed1daa6b5a13aed4b016faf287fa57c52612895c4e059ee8b84de3fc23a75"
       },
-      "version": "14.7.0+cf6bc2db04"
+      "version": "14.7.1+6478c2b479"
     },
     "net.fabricmc.fabric-api:fabric-key-mapping-api-v1": {
       "shasums": {
@@ -331,164 +331,164 @@
     },
     "net.fabricmc.fabric-api:fabric-lifecycle-events-v1": {
       "shasums": {
-        "jar": "d2a171af2d41fd682fbc7383207e3b73b1e8e257bfe29dc7c87d41e29183dfa2",
+        "jar": "a2823f8def834070607995938f4b625594bcee90efbf3d69c5deb36c22fcac7e",
         "sources": "eb04a9fb466d902e8d6983587bc4cf8a173e50ed03e5af3a0990374d1812f7b0"
       },
-      "version": "4.1.9+ffef5f6704"
+      "version": "4.1.10+ffef5f6779"
     },
     "net.fabricmc.fabric-api:fabric-loot-api-v3": {
       "shasums": {
-        "jar": "a94072b99ef6342ff8e54480b6bba8cb3ac93923d6ed2aa8ef6744c9ecb13b10",
+        "jar": "cdde6b9db5aa593d3503e476d0988c076ab8525cdd230d11fae65652f772a5e8",
         "sources": "861e1873fc0660903f376f3dc574c0e1a09831ac17a71846e9452b6be413c01a"
       },
-      "version": "4.0.8+4068fd6404"
+      "version": "4.0.9+4068fd6479"
     },
     "net.fabricmc.fabric-api:fabric-menu-api-v1": {
       "shasums": {
-        "jar": "4b3a44375c113e0339af68ca39832c32aabf1efc9c89f78cb997a6a616a334ec",
+        "jar": "ec6e55090baf8d1b8a2f5b45f61a4672b9a77203dcccb3e566472f14bfecebd3",
         "sources": "cb86ca1a8df79404f9258755dd047ad456f9db529c8ac0b184080b2344d7b9bb"
       },
-      "version": "2.0.29+ed66f0a304"
+      "version": "2.0.31+ed66f0a379"
     },
     "net.fabricmc.fabric-api:fabric-message-api-v1": {
       "shasums": {
-        "jar": "adbcbebb75ad2aad722dd7d1933ffc55380ff167d0e84c3509112e727b312208",
+        "jar": "4fa551baa89d42261879eea24ab9c80886b4bd3964c1200eb907e7ab22dfada4",
         "sources": "598a2c5d2d6b0ef6b1f5d33f9141d7aa46cbd717978ae75c8615fd96b395bfbe"
       },
-      "version": "7.0.10+3434d6d904"
+      "version": "7.0.11+3434d6d979"
     },
     "net.fabricmc.fabric-api:fabric-model-loading-api-v1": {
       "shasums": {
-        "jar": "b42614132c12f57137f6d24f59730064bbb4e568643a291b14f8eeae923d156b",
+        "jar": "18435e348eb0f438132006471c0edb6e1c75c3930e5980d4295356ede5017ca0",
         "sources": "523ef6e365ab0953cc59f44aa013dcef96602adeeb20e575683efac2b2bc46f6"
       },
-      "version": "8.0.37+fcdff87f04"
+      "version": "8.0.39+fcdff87f79"
     },
     "net.fabricmc.fabric-api:fabric-networking-api-v1": {
       "shasums": {
-        "jar": "303ffbd194c40e9f71f64fe4d218c764fde1cee1f9466630f2feed96f4424348",
-        "sources": "b4e498dc7d2a679dae313e81832d1b669b895b56525da70bf6a9d905d728c4e7"
+        "jar": "147c2529d9f806cbd63b5d1398d21ffbf3af3aacb9384ee0e5fc456bc23950e4",
+        "sources": "977650393e985563018179a460aee7a7fddccd717dac7c1f9e9361b8350d6953"
       },
-      "version": "6.3.9+33bc4d2b04"
+      "version": "6.3.11+45181f3579"
     },
     "net.fabricmc.fabric-api:fabric-object-builder-api-v1": {
       "shasums": {
-        "jar": "740224a33c55a690d24c1c5db0cd8ad7ea643b4d2016deac0ccb5f2e319d6947",
-        "sources": "42d2912c0e7b883954ecd6cefdb39cefaff9a668e67c8ed48e5fdd50243781f2"
+        "jar": "f7ff31b1b06914971ed1854ceb4bced4ca093002a111b0c5392035accec43c1b",
+        "sources": "4307b79b38808a5b2943430468e4d834dc57a233b2a570374b2cf2f86f7d03fe"
       },
-      "version": "24.1.11+3434d6d904"
+      "version": "25.0.0+6478c2b479"
     },
     "net.fabricmc.fabric-api:fabric-particles-v1": {
       "shasums": {
-        "jar": "031d2500c81fe14900d4dd055d79baf891cc7e47c96825e1fd23f45a069eeaf7",
+        "jar": "6b787d39695f2c18bf40ba2951bc19234ee4af274b1d9c64e7aea0fbc855b743",
         "sources": "7062ee7b66657292a96f2ed2c3c4b51b1d2e4a0d62d72ce94234e6425cd476b4"
       },
-      "version": "5.0.25+3434d6d904"
+      "version": "5.0.27+3434d6d979"
     },
     "net.fabricmc.fabric-api:fabric-permission-api-v1": {
       "shasums": {
-        "jar": "28d73661f2069de7cc0400aca10a525eb2e69fe0c5f5b845bc89cd11aaa8e750",
+        "jar": "df2d840b2e31d00ad76c33ae3643007811173b7e11fca67cbd2f383a3784dfc7",
         "sources": "b8d8cd7e058df9e0e0373ba857311f36d200ebb7ea860982a389b74ae5175daa"
       },
-      "version": "1.0.8+fcdff87f04"
+      "version": "1.0.9+fcdff87f79"
     },
     "net.fabricmc.fabric-api:fabric-recipe-api-v1": {
       "shasums": {
-        "jar": "39b760f7f423806046247cb1ea054693b8e20841f4832db92b73086de5b8bbaa",
-        "sources": "53dcc47e890fc321956afae2394a9720ede3467767f7de6b076be408ba2bb904"
+        "jar": "3810dc70d7e5bd53f260db5f1056380d886fb0d89a95fb3eac74dd8054fc60ab",
+        "sources": "da65af0108885a3db08f853554700a5f53640948fb72a0beb6f30b1c36bb653c"
       },
-      "version": "10.0.9+fcdff87f04"
+      "version": "10.0.11+45181f3579"
     },
     "net.fabricmc.fabric-api:fabric-registry-sync-v0": {
       "shasums": {
-        "jar": "8dfac3270d98c069c0a9a72a9456b4b3b7378905ac2671ef94acb992622b75b8",
-        "sources": "6d6fdaf9a636a4475ce1901e14704485da8955f67c176e7b374030dbe2633b64"
+        "jar": "92a385da0d9c8d700a529b4967a5eadaf04c95d1ebcd1e210332452d2dd4d73f",
+        "sources": "2f1b47e4e751fc6d4230fb55aa78beaf7e3eddc2faf1f4d85f4839e098d047a3"
       },
-      "version": "8.0.3+d432c99e04"
+      "version": "8.0.5+c7dcc27e79"
     },
     "net.fabricmc.fabric-api:fabric-renderer-api-v1": {
       "shasums": {
-        "jar": "32010a8140148f73ee8e5e99c952ceb405142127e77ac7fafa09c68d142ea040",
+        "jar": "d1d1172874a178e709fdfd93171d3cb50ab2fc30315db04c2fa834bd5214f7cf",
         "sources": "b8394fa249df6bf1ff4c35ccba3e091da2d4724f8b7c8eb7cfb0f4303d2ae0c3"
       },
-      "version": "17.0.17+d432c99e04"
+      "version": "17.0.19+6478c2b479"
     },
     "net.fabricmc.fabric-api:fabric-renderer-indigo": {
       "shasums": {
-        "jar": "4c794f24ae9b68034e60d4fa1d34fb2349c2cd5c47110191cb0639b28bafe76a",
-        "sources": "878dd12c19fdae8a0be34bf869f15a0d420d5fff61bec9d7f01e287fcc38c6f1"
+        "jar": "488451b84940b7bdb539694e4b4b206545b1f38a81c5ba231f01dfcd0b1d6134",
+        "sources": "9cd3a95716464e3966c9c59a0b0b29399e554afa98a1e24798af39021f0af701"
       },
-      "version": "9.1.25+b9d63e3304"
+      "version": "9.1.27+6478c2b479"
     },
     "net.fabricmc.fabric-api:fabric-rendering-fluids-v1": {
       "shasums": {
-        "jar": "2bb3c6f937b8e8d5fcdac84ce297c3e7105670968f61e86ab0fcd78e7a1853d5",
+        "jar": "1b12cb9e520949e758fd45da255f97bc8eee59c79dab1462cc922d837217df25",
         "sources": "998b23dfb1256eb0d93b05060712020cf559d97dd423a0c1ec3c53c51e542d82"
       },
-      "version": "6.0.6+3434d6d904"
+      "version": "6.0.7+3434d6d979"
     },
     "net.fabricmc.fabric-api:fabric-rendering-v1": {
       "shasums": {
-        "jar": "4460e270d0b43ff652b77c14b1289d331e4c97297b6a0564b21015cbbc0dea1a",
+        "jar": "2f8a26a69d83d81586d131dd7647e9574ff7b35fa3fd1d7d7d9c3ec6b648a809",
         "sources": "54c953091d721f814895e656084e495b5bf9a29ff3619bf14a24414f2baf82a8"
       },
-      "version": "27.0.16+d432c99e04"
+      "version": "27.0.18+6478c2b479"
     },
     "net.fabricmc.fabric-api:fabric-resource-conditions-api-v1": {
       "shasums": {
-        "jar": "9ae7340e86353bcaf342593294a6b76b14c32138e37ff89b9ed032005f9f5443",
-        "sources": "ed1eb1826aefab6b27150e21e97e95c2ea40dd0df8f4fc25aa12974e0f4ec433"
+        "jar": "8ccf8a5804cb876ac8126e23a2e3a072f0421045160621974845376ee0d9ed2c",
+        "sources": "51b79ec0f60716bd42e3f5989096ee8d8adb7134c2179dbc476c967b2188f8cd"
       },
-      "version": "6.1.5+3434d6d904"
+      "version": "6.2.0+fb75189479"
     },
     "net.fabricmc.fabric-api:fabric-resource-loader-v1": {
       "shasums": {
-        "jar": "818116c64156bf43a60abc2bb71150a48f054e3090aaac35820385cf9fa82669",
+        "jar": "f4e8006b63b5e16b9fdcfec60209a6874603c2a2cbd7f3f424f0ac2fd4bca2b8",
         "sources": "41d577daaace3a69577b3226a0e900112f11073ca2db1c8b65f54d54f0615b6f"
       },
-      "version": "3.0.4+ba0d6c0d04"
+      "version": "3.0.5+ba0d6c0d79"
     },
     "net.fabricmc.fabric-api:fabric-screen-api-v1": {
       "shasums": {
-        "jar": "0ea4b63b57b5577e5e4a5aa67b91b7c0ba339d2dbe934a56d0434ca68f536eed",
+        "jar": "92ea0ceca0e2b49f971c7653e3bc7c2123aca49d6d6983d28cdf4bddef5994f6",
         "sources": "9af85d844d80c275569030cd97e0039fec0413fdf5c3ce3e962ed84655374b59"
       },
-      "version": "5.2.4+48607d03ab"
+      "version": "5.2.5+48607d0379"
     },
     "net.fabricmc.fabric-api:fabric-serialization-api-v1": {
       "shasums": {
-        "jar": "c76e45f8e3a143f9c45ef111b5127c8dcbd7e71009dfea4cd7a2cca318085728",
+        "jar": "52f2379353271084ecab43d2f2478d5d7e882e37ed36070dac0bb8ebc0e568bf",
         "sources": "84192c2accc075dc9c971482cd2c18040576e6b7cc3888344e67bb0356a2efde"
       },
-      "version": "2.0.7+74ed1ea504"
+      "version": "2.0.7+74ed1ea579"
     },
     "net.fabricmc.fabric-api:fabric-sound-api-v1": {
       "shasums": {
-        "jar": "330a62201fb16818e5af00ec4534542ed586f80f6b399f882ac1b746b229763e",
+        "jar": "956b7c117ec94552ad634fc89fa135e64e4ffb09a164aea8d3acb361011f23fd",
         "sources": "1582fb1f805ba41c7e73427d81532169b587e6efdff69571dc8f23d326a26b5f"
       },
-      "version": "2.0.7+3434d6d904"
+      "version": "2.0.7+3434d6d979"
     },
     "net.fabricmc.fabric-api:fabric-tag-api-v1": {
       "shasums": {
-        "jar": "c78ae6db2d6c1ff31e74633a1b307cd19da3894993162f8e6292b747c8019027",
+        "jar": "cf7f67daf0a7db6da77604983579d4d589d455f8d9b9cf8ea7d2fac4e7324448",
         "sources": "a6a4bfd97508d42745d9bacd535a15acd60182574d7804692ab2de4b07f11a20"
       },
-      "version": "2.1.10+fcdff87f04"
+      "version": "2.1.11+fcdff87f79"
     },
     "net.fabricmc.fabric-api:fabric-transfer-api-v1": {
       "shasums": {
-        "jar": "1010905ea157ba9ab5c8c0069d87de6637faf516ca58b3cb536122f7600a27fb",
-        "sources": "7090b7b475c01f80133495889ea3df5c89ef26633ac5d1f67303b1b2848d8c7b"
+        "jar": "5f2aba320c022583322c1a4ac0017ad098a73c82c7fc732d55c6424f2260be1d",
+        "sources": "ba076e20201dc84d2affb7576f47a3cc0384998548cdf1a9e012944fc70d4add"
       },
-      "version": "8.0.25+fcdff87f04"
+      "version": "8.0.26+6478c2b479"
     },
     "net.fabricmc.fabric-api:fabric-transitive-access-wideners-v1": {
       "shasums": {
-        "jar": "8fd224486d5d86c7a4e3a3fd184949837ecc38cbe4894138bec935436acea405",
-        "sources": "084d15b4b9de6583318bbb78659973b75043fede1ae0c7c6fc3681480b784b0c"
+        "jar": "4dd8feb97e1e090ed6a97dd0560caf35291b8a28288e78a9043e39aed8bdb66d",
+        "sources": "d0192674d95f50180dc58e5835162e1ebcbd7151fc2f1c0f47d7b557834adbc7"
       },
-      "version": "8.1.18+d432c99e04"
+      "version": "8.2.0+6478c2b479"
     },
     "net.fabricmc:fabric-language-kotlin": {
       "shasums": {
@@ -802,7 +802,8 @@
     "net.fabricmc.fabric-api:fabric-object-builder-api-v1": [
       "net.fabricmc.fabric-api:fabric-api-base",
       "net.fabricmc.fabric-api:fabric-registry-sync-v0",
-      "net.fabricmc.fabric-api:fabric-resource-loader-v1"
+      "net.fabricmc.fabric-api:fabric-resource-loader-v1",
+      "net.fabricmc.fabric-api:fabric-transitive-access-wideners-v1"
     ],
     "net.fabricmc.fabric-api:fabric-particles-v1": [
       "net.fabricmc.fabric-api:fabric-api-base",
@@ -1238,7 +1239,6 @@
       "net.fabricmc.fabric.api.object.builder.v1.block.entity",
       "net.fabricmc.fabric.api.object.builder.v1.block.type",
       "net.fabricmc.fabric.api.object.builder.v1.entity",
-      "net.fabricmc.fabric.api.object.builder.v1.world.poi",
       "net.fabricmc.fabric.impl.object.builder",
       "net.fabricmc.fabric.mixin.object.builder",
       "net.fabricmc.fabric.mixin.object.builder.client"
