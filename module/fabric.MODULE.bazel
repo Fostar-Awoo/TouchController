@@ -265,10 +265,9 @@ fabric_versions = {
         "intermediary": False,
         "api": "0.162.2+26.4",
         "loader": "0.19.5",
-        "modmenu": "22.0.0-alpha.1",
+        "modmenu": "22.0.0-alpha.2",
         "mixin": "0.17.4+mixin.0.8.7",
         "mixin_extras": "0.5.5",
-        "modmenu_neverlink": True,  # Modmenu 22.0.0-alpha.1 only support 26.4-snapshot-1
     },
 }
 
