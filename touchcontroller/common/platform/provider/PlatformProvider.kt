@@ -49,6 +49,10 @@ object PlatformProvider {
         if (systemName.contains("iOS", ignoreCase = true)) {
             return@lazy true
         }
+        // Or launcher opt-in by a magic environment variable
+        if (System.getenv("TOUCHCONTROLLER_USE_IOS_PLATFORM") != null) {
+            true
+        }
         // Check if running on iOS by detecting /var/mobile (iOS-specific path)
         val iosPath = Paths.get("/", "var", "mobile")
         try {
@@ -113,8 +117,10 @@ object PlatformProvider {
         val platformWindow = PlatformWindowProvider.platform
 
         if (isIos) {
-            IosPlatform().also { platform ->
-                platform.resize(PlatformWindowProvider.windowWidth, PlatformWindowProvider.windowHeight)
+            return {
+                IosPlatform().also { platform ->
+                    platform.resize(PlatformWindowProvider.windowWidth, PlatformWindowProvider.windowHeight)
+                }
             }
         }
 
