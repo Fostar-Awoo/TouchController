@@ -13,10 +13,30 @@ import kotlinx.serialization.encoding.Encoder
 sealed class Identifier {
     data class Namespaced(val namespace: String, val id: String) : Identifier() {
         override fun toString() = "$namespace:$id"
+
+        override fun hashCode() = toString().hashCode()
+
+        override fun equals(other: Any?) = when (other) {
+            is Vanilla -> other == this
+            is Namespaced -> other.namespace == this.namespace && other.id == this.id
+            else -> false
+        }
     }
 
     data class Vanilla(val id: String) : Identifier() {
+        companion object {
+            private const val NAMESPACE = "minecraft"
+        }
+
         override fun toString() = "minecraft:$id"
+
+        override fun hashCode() = toString().hashCode()
+
+        override fun equals(other: Any?) = when (other) {
+            is Vanilla -> other.id == this.id
+            is Namespaced -> other.namespace == NAMESPACE && other.id == this.id
+            else -> false
+        }
     }
 
     companion object {
