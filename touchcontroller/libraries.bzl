@@ -102,7 +102,7 @@ touchcontroller_neoforge_config = combine_neoforge_config | {
     "touchcontroller-lang-modern": "minecraft: +[1.13,)",
     "touchcontroller-texture": "",
     "touchcontroller-texture-atlas": "minecraft: +[1.21.1]",
-    "touchcontroller-texture-vanilla": "minecraft: +[1.21.10,26.2]",
+    "touchcontroller-texture-vanilla": "minecraft: +[1.21.10,26.3]",
     "touchcontroller-1-21-1-neoforge": "minecraft: +[1.21.1]",
     "touchcontroller-1-21-10-neoforge": "minecraft: +[1.21.10]",
     "touchcontroller-1-21-11-neoforge": "minecraft: +[1.21.11]",
@@ -112,6 +112,7 @@ touchcontroller_neoforge_config = combine_neoforge_config | {
     "touchcontroller-26-2": "minecraft: +[26.2]",
     "touchcontroller-26-2-neoforge": "minecraft: +[26.2]",
     "touchcontroller-26-3": "minecraft: +[26.3]",
+    "touchcontroller-26-3-neoforge": "minecraft: +[26.3]",
     "touchcontroller-26-4": "minecraft: +[26.4]",
 }
 
