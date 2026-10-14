@@ -2,6 +2,7 @@ package top.fifthlight.fabazel.curseforge;
 
 import ch.qos.logback.classic.Level;
 import ch.qos.logback.classic.Logger;
+import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.github.mizosoft.methanol.MediaType;
 import com.github.mizosoft.methanol.MultipartBodyPublisher;
@@ -66,7 +67,8 @@ public class CurseForgeUploader implements Callable<Integer> {
 
     @Override
     public Integer call() throws Exception {
-        var objectMapper = new ObjectMapper();
+        var objectMapper = new ObjectMapper()
+                .configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
 
         if (!USABLE_CHANGELOG_TYPES.contains(changelogType)) {
             throw new IllegalArgumentException("Invalid changelog type: " + changelogType);
