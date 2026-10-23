@@ -35,6 +35,7 @@ object DefaultItemListProviderImpl : DefaultItemListProvider {
             ItemImpl(Items.ENDER_EYE),
             ItemImpl(Items.ENDER_PEARL),
             ItemImpl(Items.MILK_BUCKET),
+            ItemImpl(Items.POTION),
         ),
         blacklist = persistentListOf(
             ItemImpl(Items.ARROW),
